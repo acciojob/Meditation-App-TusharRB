@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.vid-container {
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+
+.player-container {
+  display: none;
+}
+
+.sound-picker {
+  margin-top: 10px;
+}
+
+.sound-btn {
+  margin-right: 10px;
+}
+
+.time-select {
+  margin-top: 10px;
+}
+
+.time-display {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.play {
+  margin-top: 10px;
+}
